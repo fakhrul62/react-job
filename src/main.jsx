@@ -1,6 +1,12 @@
 import { StrictMode } from 'react'
+import React from 'react'
+import ReactDOM from 'react-dom/client'
 import { createRoot } from 'react-dom/client'
 import './index.css'
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
 import MainLayout from "./components/Main/MainLayout";
 import Home from "./components/pages/Home";
 import Statistics from "./components/pages/Statistics";
@@ -9,10 +15,7 @@ import Blogs from "./components/pages/Blogs";
 import JobDetails from "./components/pages/JobDetails";
 import ErrorPage from "./components/pages/ErrorPage";
 import './App.css'
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from "react-router-dom";
+
 
 const router = createBrowserRouter([
   {
@@ -49,9 +52,8 @@ const router = createBrowserRouter([
 ]);
 
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    {/* <RouterProvider router={Route}></RouterProvider> */}
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
     <RouterProvider router={router} />
-  </StrictMode>,
+  </React.StrictMode>,
 )
