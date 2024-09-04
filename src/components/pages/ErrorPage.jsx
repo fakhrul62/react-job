@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 const ErrorPage = () => {
     return (
         <div>
-            <NavLink to="/react-job"><button type="button">Go Home</button></NavLink>
+            <NavLink to="/"><button type="button">Go Home</button></NavLink>
         </div>
     );
 };

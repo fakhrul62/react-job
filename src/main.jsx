@@ -16,12 +16,12 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/react-job",
+    path: "/react-job/",
     element: <MainLayout></MainLayout>,
     errorElement: <ErrorPage></ErrorPage>,
     children: [
         {
-            path: "/react-job",
+            path: "/react-job/",
             element: <Home></Home>
         },
         {
