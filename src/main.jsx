@@ -1,13 +1,13 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import MainLayout from "../components/Main/MainLayout";
-import Home from "../components/pages/Home";
-import Statistics from "../components/pages/Statistics";
-import AppliedJobs from "../components/pages/AppliedJobs";
-import Blogs from "../components/pages/Blogs";
-import JobDetails from "../components/pages/JobDetails";
-import ErrorPage from "../components/pages/ErrorPage";
+import MainLayout from "./components/Main/MainLayout";
+import Home from "./components/pages/Home";
+import Statistics from "./components/pages/Statistics";
+import AppliedJobs from "./components/pages/AppliedJobs";
+import Blogs from "./components/pages/Blogs";
+import JobDetails from "./components/pages/JobDetails";
+import ErrorPage from "./components/pages/ErrorPage";
 import './App.css'
 import {
   createBrowserRouter,
