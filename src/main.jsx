@@ -30,21 +30,21 @@ const router = createBrowserRouter([
         {
             path: "/react-job/statistics",
             element: <Statistics></Statistics>,
-            loader: ()=> fetch('../public/jobs.json')
+            loader: ()=> fetch('https://raw.githubusercontent.com/fakhrul62/react-job/main/public/jobs.json')
         },
         {
             path: "/react-job/applied-jobs",
             element: <AppliedJobs></AppliedJobs>,
-            loader: ()=> fetch('../public/jobs.json')
+            loader: ()=> fetch('https://raw.githubusercontent.com/fakhrul62/react-job/main/public/jobs.json')
         },{
             path: "/react-job/blogs",
             element: <Blogs></Blogs>,
-            loader: ()=> fetch('../public/blogs.json')
+            loader: ()=> fetch('https://raw.githubusercontent.com/fakhrul62/react-job/main/public/blogs.json')
         },
         {
             path: "/react-job/job/:id",
             element: <JobDetails></JobDetails>,
-            loader: ()=> fetch('../public/jobs.json')
+            loader: ()=> fetch('https://raw.githubusercontent.com/fakhrul62/react-job/main/public/jobs.json')
         },
         
     ]
