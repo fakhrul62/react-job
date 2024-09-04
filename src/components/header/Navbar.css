@@ -1,0 +1,11 @@
+
+.menu a{
+    border-bottom: 1px solid #09090b;
+    padding: 5px 10px;
+}
+.menu a:hover{
+    border-bottom: 1px solid #ddd;
+}
+.menu a.active{
+    border-bottom: 2px solid #d37272;
+}

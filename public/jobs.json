@@ -1,0 +1,193 @@
+[
+    {
+      "id": 1,
+      "logo": "https://i.ibb.co/0rgFMFz/Apple-Logo.png",
+      "job_title": "Software Development Engineer",
+      "company_name": "Apple Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "Cupertino, CA, USA",
+      "job_type": "Full Time",
+      "salary": 120,
+      "job_description": "Responsible for developing and maintaining software applications and systems. Collaborates with cross-functional teams to design, implement, and test software features.",
+      "job_responsibility": "Design, develop, and maintain software applications, ensuring high performance, security, and scalability.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3-5 Years of experience in software development.",
+      "contact_information": {
+        "phone": "408-555-1234",
+        "email": "jobs@apple.com",
+        "address": "1 Infinite Loop, Cupertino, CA, USA"
+      }
+    },
+    {
+      "id": 2,
+      "logo": "https://i.ibb.co/QMdxmhK/Amazon-Logo.png",
+      "job_title": "Data Analyst",
+      "company_name": "Amazon.com, Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Seattle, WA, USA",
+      "job_type": "Full Time",
+      "salary": 80,
+      "job_description": "Analyzes data to provide insights that support business decisions. Works closely with business teams to develop data-driven strategies.",
+      "job_responsibility": "Gather, analyze, and interpret large datasets to identify trends and patterns.",
+      "educational_requirements": "Bachelor's degree in Data Science, Statistics, or a related field.",
+      "experiences": "2-4 Years of experience in data analysis.",
+      "contact_information": {
+        "phone": "206-555-7890",
+        "email": "careers@amazon.com",
+        "address": "410 Terry Ave N, Seattle, WA, USA"
+      }
+    },
+    {
+      "id": 3,
+      "logo": "https://i.ibb.co/0VJVNsR/Microsoft-Logo.png",
+      "job_title": "Cloud Solutions Architect",
+      "company_name": "Microsoft Corporation",
+      "remote_or_onsite": "Remote",
+      "location": "Redmond, WA, USA",
+      "job_type": "Full Time",
+      "salary": 140,
+      "job_description": "Designs and implements cloud solutions to meet client needs. Provides technical leadership and ensures cloud solutions are scalable and secure.",
+      "job_responsibility": "Collaborate with clients to design, deploy, and manage cloud-based solutions.",
+      "educational_requirements": "Bachelor's degree in Information Technology or a related field.",
+      "experiences": "5+ Years of experience in cloud architecture.",
+      "contact_information": {
+        "phone": "425-555-6543",
+        "email": "careers@microsoft.com",
+        "address": "One Microsoft Way, Redmond, WA, USA"
+      }
+    },
+    {
+      "id": 4,
+      "logo": "https://i.ibb.co/r43Wk8h/Meta-Logo.png",
+      "job_title": "Product Manager",
+      "company_name": "Meta Platforms, Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "Menlo Park, CA, USA",
+      "job_type": "Full Time",
+      "salary": 130,
+      "job_description": "Oversees the development and launch of products, ensuring they meet user needs and align with company goals.",
+      "job_responsibility": "Define product vision and strategy, manage the product lifecycle, and collaborate with cross-functional teams.",
+      "educational_requirements": "Bachelor's degree in Business Administration or related field.",
+      "experiences": "4-6 Years of experience in product management.",
+      "contact_information": {
+        "phone": "650-555-9876",
+        "email": "jobs@meta.com",
+        "address": "1601 Willow Rd, Menlo Park, CA, USA"
+      }
+    },
+    {
+      "id": 5,
+      "logo": "https://i.ibb.co/6sx21zp/Netflix-Logo.png",
+      "job_title": "UI/UX Designer",
+      "company_name": "Netflix, Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Los Gatos, CA, USA",
+      "job_type": "Full Time",
+      "salary": 110,
+      "job_description": "Designs and enhances the user interface and experience for Netflix's web and mobile applications.",
+      "job_responsibility": "Create wireframes, prototypes, and user flows to improve the user experience.",
+      "educational_requirements": "Bachelor's degree in Design, Human-Computer Interaction, or related field.",
+      "experiences": "3-5 Years of experience in UI/UX design.",
+      "contact_information": {
+        "phone": "408-555-4321",
+        "email": "careers@netflix.com",
+        "address": "100 Winchester Cir, Los Gatos, CA, USA"
+      }
+    },
+    {
+      "id": 6,
+      "logo": "https://i.ibb.co/BKttVHR/Tesla-logo.png",
+      "job_title": "Electrical Engineer",
+      "company_name": "Tesla, Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "Palo Alto, CA, USA",
+      "job_type": "Full Time",
+      "salary": 100,
+      "job_description": "Designs, develops, and tests electrical systems and components for Tesla vehicles.",
+      "job_responsibility": "Develop and implement electrical systems, troubleshoot issues, and ensure compliance with safety standards.",
+      "educational_requirements": "Bachelor's degree in Electrical Engineering.",
+      "experiences": "2-4 Years of experience in electrical engineering.",
+      "contact_information": {
+        "phone": "650-555-2468",
+        "email": "jobs@tesla.com",
+        "address": "3500 Deer Creek Rd, Palo Alto, CA, USA"
+      }
+    },
+    {
+      "id": 7,
+      "logo": "https://i.ibb.co/RTnkZ6R/Space-X-Logo.png",
+      "job_title": "Aerospace Engineer",
+      "company_name": "SpaceX",
+      "remote_or_onsite": "Onsite",
+      "location": "Hawthorne, CA, USA",
+      "job_type": "Full Time",
+      "salary": 120,
+      "job_description": "Designs and develops aerospace systems, including spacecraft and rockets, for SpaceX missions.",
+      "job_responsibility": "Conduct research, design aerospace systems, and oversee manufacturing and testing processes.",
+      "educational_requirements": "Bachelor's degree in Aerospace Engineering.",
+      "experiences": "3-5 Years of experience in aerospace engineering.",
+      "contact_information": {
+        "phone": "310-555-1357",
+        "email": "careers@spacex.com",
+        "address": "1 Rocket Road, Hawthorne, CA, USA"
+      }
+    },
+    {
+      "id": 8,
+      "logo": "https://i.ibb.co/kK8h01Z/Intel-logo.png",
+      "job_title": "Embedded Systems Engineer",
+      "company_name": "Intel Corporation",
+      "remote_or_onsite": "Onsite",
+      "location": "Santa Clara, CA, USA",
+      "job_type": "Full Time",
+      "salary": 110,
+      "job_description": "Develops and tests embedded systems for a wide range of Intel products, including processors and microcontrollers.",
+      "job_responsibility": "Design and implement embedded systems software and hardware, conduct testing and validation.",
+      "educational_requirements": "Bachelor's degree in Computer Engineering or Electrical Engineering.",
+      "experiences": "3-4 Years of experience in embedded systems.",
+      "contact_information": {
+        "phone": "408-555-9632",
+        "email": "jobs@intel.com",
+        "address": "2200 Mission College Blvd, Santa Clara, CA, USA"
+      }
+    },
+    {
+      "id": 9,
+      "logo": "https://i.ibb.co/DVYPw0g/Twitter-Log.png",
+      "job_title": "Cybersecurity Analyst",
+      "company_name": "Twitter, Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "San Francisco, CA, USA",
+      "job_type": "Full Time",
+      "salary": 90,
+      "job_description": "Protects Twitter's information systems by identifying vulnerabilities and implementing security measures.",
+      "job_responsibility": "Monitor security threats, develop and implement security protocols, and respond to incidents.",
+      "educational_requirements": "Bachelor's degree in Cybersecurity or a related field.",
+      "experiences": "2-3 Years of experience in cybersecurity.",
+      "contact_information": {
+        "phone": "415-555-7894",
+        "email": "careers@twitter.com",
+        "address": "1355 Market St, San Francisco, CA, USA"
+      }
+    },
+    {
+      "id": 10,
+      "logo": "https://i.ibb.co/7g8ZHJj/IBM-logo.png",
+      "job_title": "AI Research Scientist",
+      "company_name": "IBM",
+      "remote_or_onsite": "Remote",
+      "location": "Armonk, NY, USA",
+      "job_type": "Full Time",
+      "salary": 150,
+      "job_description": "Conducts research in artificial intelligence and machine learning, developing innovative solutions and technologies.",
+      "job_responsibility": "Design and execute research projects, publish findings, and collaborate with development teams to implement AI solutions.",
+      "educational_requirements": "PhD in Computer Science, Artificial Intelligence, or a related field.",
+      "experiences": "5+ Years of experience in AI research.",
+      "contact_information": {
+        "phone": "914-555-3210",
+        "email": "careers@ibm.com",
+        "address": "1 Orchard Road, Armonk, NY, USA"
+      }
+    }
+  ]
+  

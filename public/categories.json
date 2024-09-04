@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/sRB6B7w/cloud-check-svgrepo-com.png",
+        "category_name": "Cloud Computing",
+        "availability": "150 Jobs Available"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/C9mzwFF/space-ship-space-svgrepo-com.png",
+        "category_name": "Aerospace Engineering",
+        "availability": "80+ Jobs Available"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/c3jQj8D/security-protection-shield-padlock-svgrepo-com.png",
+        "category_name": "Cybersecurity",
+        "availability": "220 Jobs Available"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/BLypJYL/machine-learning-03-svgrepo-com.png",
+        "category_name": "Artificial Intelligence",
+        "availability": "90 Jobs Available"
+    }
+]
