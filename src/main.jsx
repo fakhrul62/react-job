@@ -16,30 +16,30 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/react-job",
     element: <MainLayout></MainLayout>,
     errorElement: <ErrorPage></ErrorPage>,
     children: [
         {
-            path: "/",
+            path: "/react-job",
             element: <Home></Home>
         },
         {
-            path: "/statistics",
+            path: "/react-job/statistics",
             element: <Statistics></Statistics>,
             loader: ()=> fetch('jobs.json')
         },
         {
-            path: "/applied-jobs",
+            path: "/react-job/applied-jobs",
             element: <AppliedJobs></AppliedJobs>,
             loader: ()=> fetch('jobs.json')
         },{
-            path: "/blogs",
+            path: "/react-job/blogs",
             element: <Blogs></Blogs>,
             loader: ()=> fetch('blogs.json')
         },
         {
-            path: "/job/:id",
+            path: "/react-job/job/:id",
             element: <JobDetails></JobDetails>,
             loader: ()=> fetch('jobs.json')
         },
