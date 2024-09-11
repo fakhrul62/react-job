@@ -5,10 +5,10 @@ import "./Navbar.css"
 const Navbar = () => {
     const li = (
         <>
-        <NavLink to="/react-job/">Home</NavLink>
-        <NavLink to="/react-job/statistics">Statistics</NavLink>
-        <NavLink to="/react-job/applied-jobs">Applied jobs</NavLink>
-        <NavLink to="/react-job/blogs">Blogs</NavLink>
+        <NavLink to="/">Home</NavLink>
+        <NavLink to="/statistics">Statistics</NavLink>
+        <NavLink to="/applied-jobs">Applied jobs</NavLink>
+        <NavLink to="/blogs">Blogs</NavLink>
         </>
     )
   return (
