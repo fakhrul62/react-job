@@ -9,7 +9,7 @@ const AppliedJobs = () => {
 
   useEffect(()=>{
     const storedJobs = localStorage.getItem("job-application");
-    const jobsApplied = jobs.filter(job => storedJobs.includes(job.id));
+    const jobsApplied = jobs?.filter(job => storedJobs?.includes(job.id));
     setAppliedjobs(jobsApplied);
     setDisplayjobs(jobsApplied);
   }, []);
@@ -19,11 +19,11 @@ const AppliedJobs = () => {
         setDisplayjobs(appliedJobs);
     }
     else if(filter === "Remote"){
-        const remoteJobs = appliedJobs.filter(job => job.remote_or_onsite === "Remote");
+        const remoteJobs = appliedJobs?.filter(job => job.remote_or_onsite === "Remote");
         setDisplayjobs(remoteJobs);
     }
     else if(filter === "Onsite"){
-        const onsite = appliedJobs.filter(job => job.remote_or_onsite === "Onsite");
+        const onsite = appliedJobs?.filter(job => job.remote_or_onsite === "Onsite");
         setDisplayjobs(onsite);
     }
   }
@@ -44,7 +44,7 @@ const AppliedJobs = () => {
       </div>
       <div className="w-10/12 mx-auto py-12 grid grid-cols-2 gap-5 ">
       {
-           displayJobs.map((job, idx)=> <Job key={idx} job={job}></Job>)
+           displayJobs?.map((job, idx)=> <Job key={idx} job={job}></Job>)
         }
       </div>
     </div>

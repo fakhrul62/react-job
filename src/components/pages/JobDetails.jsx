@@ -8,7 +8,7 @@ const JobDetails = () => {
   const jobs = useLoaderData();
   const strId = useParams();
   const id = parseInt(strId.id);
-  const job = jobs.find((job) => job.id === id);
+  const job = jobs?.find((job) => job.id === id);
   const handleApply = () => {
     const storedJobs = localStorage.getItem("job-application");
     const storedJobsParse = JSON.parse(storedJobs);

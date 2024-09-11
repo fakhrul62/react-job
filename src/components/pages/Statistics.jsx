@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from "react";
 import { useLoaderData } from "react-router-dom";
 import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid } from "recharts";
@@ -46,7 +47,7 @@ const Statistics = () => {
           shape={<TriangleBar />}
           label={{ position: "top" }}
         >
-          {data.map((entry, index) => (
+          {data?.map((entry, index) => (
             <Cell key={`cell-${index}`} fill={colors[index % 20]} />
           ))}
         </Bar>

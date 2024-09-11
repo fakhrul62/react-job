@@ -7,7 +7,7 @@
         "category": "Software Development",
         "summary": "Explore the essential skills that every software developer needs to thrive in 2024, from mastering new programming languages to understanding cloud technologies.",
         "url": "https://dev.to/somadevtoo/5-skills-programmers-and-developers-should-learn-in-2024-3bmp",
-        "image": "/src/assets/images/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_khvipzucdey7qdzmlvpt.jpg"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_khvipzucdey7qdzmlvpt.jpg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "category": "Data Science & Analytics",
         "summary": "Discover the latest trends in data science, including the rise of AI-driven analytics, and what it means for the future of the industry.",
         "url": "https://www.icertglobal.com/data-science-trends-to-watch-in-2024-for-business-intelligence-blog/detail",
-        "image": "/src/assets/images/The-Future-of-BI-Data-Analytics-Trends-for-2024-and-Beyond.webp"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/The-Future-of-BI-Data-Analytics-Trends-for-2024-and-Beyond.webp"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "category": "Cloud Computing",
         "summary": "A comprehensive guide to the most important cloud technologies in 2024, along with best practices for cloud architects and developers.",
         "url": "https://medium.com/@ecfdataus/cloud-computing-2024-key-trends-and-challenges-ec4fdda8c938",
-        "image": "/src/assets/images/1_vdR5CcwUXFUHfkQZ2fXvyQ.png"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/1_vdR5CcwUXFUHfkQZ2fXvyQ.png"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "category": "Product Management",
         "summary": "Learn the key strategies for success as a product manager in the tech industry, including managing cross-functional teams and delivering successful products.",
         "url": "https://www.productleadership.com/skills-to-succeed-in-product-management/",
-        "image": "/src/assets/images/skills-to-succeed-in-product-management.webp"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/skills-to-succeed-in-product-management.webp"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "category": "UI/UX Design",
         "summary": "Stay ahead of the curve by learning about the latest UI/UX design trends that will shape web and mobile applications in 2024.",
         "url": "https://www.tristatetechnology.com/blog/top-ui-ux-design-trends",
-        "image": "/src/assets/images/top-ui-ux-design-trends-to-watch-out-in-2024.png"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/top-ui-ux-design-trends-to-watch-out-in-2024.png"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "category": "Engineering & Technology",
         "summary": "An overview of the engineering job market in 2024, highlighting key skills, industry demands, and career opportunities.",
         "url": "https://www.groomassocies.com/insights/14-most-in-demand-engineering-careers-for-2024-and-beyond/",
-        "image": "/src/assets/images/iStock-1400145945.jpg"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/iStock-1400145945.jpg"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "category": "Aerospace Engineering",
         "summary": "Explore the latest innovations in aerospace engineering, from reusable rockets to advancements in satellite technology.",
         "url": "https://www.investpr.org/forging-the-future-of-aerospace-in-puerto-rico-shaping-world-class-talent/",
-        "image": "/src/assets/images/IPR-Aerospace-feature-1024x683.jpg"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/IPR-Aerospace-feature-1024x683.jpg"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "category": "Cybersecurity",
         "summary": "Understand the increasing importance of cybersecurity in 2024, and how businesses can protect themselves against evolving threats.",
         "url": "https://blog.patoliyainfotech.com/2024-cybersecurity-trend-digital-change/",
-        "image": "/src/assets/images/Why-cybersecurity-protection-is-more-important-than-ever-in-2024.png"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/Why-cybersecurity-protection-is-more-important-than-ever-in-2024.png"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "category": "Artificial Intelligence",
         "summary": "Delve into the latest research in artificial intelligence, including the opportunities and challenges that researchers face in 2024.",
         "url": "https://www.linkedin.com/pulse/future-ai-2024-innovations-challenges-opportunities-oybrf/",
-        "image": "/src/assets/images/1721112384365.png"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/1721112384365.png"
     },
     {
         "id": 10,
@@ -97,6 +97,6 @@
         "category": "Embedded Systems",
         "summary": "A look at why embedded systems engineers are in high demand, and what skills are essential for success in this field.",
         "url": "https://www.precedenceresearch.com/embedded-systems-market",
-        "image": "/src/assets/images/embedded-systems-market-size.jpg"
+        "image": "https://raw.githubusercontent.com/fakhrul62/react-job/main/src/assets/images/embedded-systems-market-size.jpg"
     }
 ]
