@@ -5,6 +5,7 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import {
   createBrowserRouter,
+  createHashRouter,
   HashRouter,
   RouterProvider,
 } from "react-router-dom";
@@ -17,7 +18,7 @@ import JobDetails from "./components/pages/JobDetails";
 import ErrorPage from "./components/pages/ErrorPage";
 import "./App.css";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <MainLayout></MainLayout>,
