@@ -18,7 +18,7 @@ const Job = ({job}) => {
                 <span>{location}</span>
                 <span>${salary}K</span>
             </div>
-            <NavLink to={`/react-job/job/${id}`}><button className='btn bg-zinc-900 text-white mt-3 rounded' type="button">View Details</button></NavLink>
+            <NavLink to={`/job/${id}`}><button className='btn bg-zinc-900 text-white mt-3 rounded' type="button">View Details</button></NavLink>
         </div>
     );
 };
