@@ -33,7 +33,7 @@ const router = createHashRouter([
         element: <Statistics></Statistics>,
         loader: () =>
           fetch(
-            "https://raw.githubusercontent.com/fakhrul62/react-job/main/public/jobs.json"
+            "jobs.json"
           ),
       },
       {
@@ -41,7 +41,7 @@ const router = createHashRouter([
         element: <AppliedJobs></AppliedJobs>,
         loader: () =>
           fetch(
-            "https://raw.githubusercontent.com/fakhrul62/react-job/main/public/jobs.json"
+            "jobs.json"
           ),
       },
       {
@@ -54,7 +54,7 @@ const router = createHashRouter([
         element: <JobDetails></JobDetails>,
         loader: () =>
           fetch(
-            "https://raw.githubusercontent.com/fakhrul62/react-job/main/public/jobs.json"
+            "jobs.json"
           ),
       },
     ],
