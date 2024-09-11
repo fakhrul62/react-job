@@ -23,6 +23,7 @@ const router = createBrowserRouter([
     element: <MainLayout></MainLayout>,
     errorElement: <ErrorPage></ErrorPage>,
     children: [
+<<<<<<< HEAD
         {
             path: "/",
             element: <Home></Home>
@@ -49,6 +50,43 @@ const router = createBrowserRouter([
         
     ]
 }
+=======
+      {
+        path: "/",
+        element: <Home></Home>,
+      },
+      {
+        path: "/statistics",
+        element: <Statistics></Statistics>,
+        loader: () =>
+          fetch(
+            "jobs.json"
+          ),
+      },
+      {
+        path: "/applied-jobs",
+        element: <AppliedJobs></AppliedJobs>,
+        loader: () =>
+          fetch(
+            "jobs.json"
+          ),
+      },
+      {
+        path: "/blogs",
+        element: <Blogs></Blogs>,
+        loader: () => fetch("blogs.json"),
+      },
+      {
+        path: "/job/:id",
+        element: <JobDetails></JobDetails>,
+        loader: () =>
+          fetch(
+            "jobs.json"
+          ),
+      },
+    ],
+  },
+>>>>>>> f1eac2f2a3ae00b079831f3cf3b832095d85434f
 ]);
 
 
